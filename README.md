@@ -1,5 +1,4 @@
 <p align="center">
-  <img alt="Files Logo" src="src/Files.App%20(Package)/Assets/AppTiles/Release/StoreLogo.scale-400.png" width="100px" />
   <h1 align="center">Files</h1>
 </p>
 
@@ -58,6 +57,5 @@ In the architecture pane, select the correct architecture for your system as Deb
 
 Want to contribute to this project? Feel free to open an [issue](https://github.com/files-community/Files/issues) or [pull request](https://github.com/files-community/Files/pulls). View our [Contributing guidelines](https://github.com/files-community/Files/blob/main/.github/CONTRIBUTING.md) to make sure you're up to date on the latest guidelines for contributing to the Files codebase.
 
-## Screenshots
+## Reprinted from：https://github.com/files-community
 
-![Files](src/Files.App/Assets/FilesHome.png)
